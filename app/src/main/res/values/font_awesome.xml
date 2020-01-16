@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="icon_user" translatable="false">&#xf007;</string>
+    <string name="icon_password" translatable="false">&#xf023;</string>
+    <string name="icon_search" translatable="false">&#xf002;</string>
+    <string name="icon_dollar" translatable="false">&#xf155;</string>
+    <string name="icon_phone" translatable="false">&#xf095;</string>
+    <string name="icon_email" translatable="false">&#xf0e0;</string>
+    <string name="icon_notif" translatable="false">&#xf0a2;</string>
+    <string name="icon_next" translatable="false">&#xf054;</string>
+    <string name="icon_prev" translatable="false">&#xf053;</string>
+    <string name="icon_store" translatable="false">&#xf041;</string>
+    <string name="icon_menu" translatable="false">&#xf0c9;</string>
+    <string name="icon_reply" translatable="false">&#xf112;</string>
+    <string name="icon_thumbs_up" translatable="false">&#xf087;</string>
+    <string name="icon_thumbs_down" translatable="false">&#xf088;</string>
+    <string name="icon_back_arrow" translatable="false">&#xf060;</string>
+    <string name="icon_more" translatable="false">&#xf142;</string>
+    <string name="icon_plus" translatable="false">&#xf067;</string>
+    <string name="icon_edit" translatable="false">&#xf044;</string>
+    <string name="icon_check" translatable="false">&#xf046;</string>
+    <string name="icon_down" translatable="false">&#xf0d7;</string>
+    <string name="icon_switch" translatable="false">&#xf0ec;</string>
+    <string name="icon_org" translatable="false">&#xf0f7;</string>
+    <string name="icon_clear" translatable="false">&#xf057;</string>
+    <string name="icon_refresh" translatable="false">&#xf021;</string>
+    <string name="icon_circle" translatable="false">&#xf1db;</string>
+    <string name="icon_circle_fill" translatable="false">&#xf111;</string>
+    <string name="icon_sad_face" translatable="false">&#xf119;</string>
+    <string name="icon_straight_face" translatable="false">&#xf11a;</string>
+    <string name="icon_happy_face" translatable="false">&#xf118;</string>
+    <string name="icon_exclamation" translatable="false">&#xf12a;</string>
+    <string name="icon_exclamation_circle" translatable="false">&#xf06a;</string>
+    <string name="icon_question_circle" translatable="false">&#xf059;</string>
+    <string name="icon_question" translatable="false">&#xf128;</string>
+    <string name="icon_cup" translatable="false">&#xf0f4;</string>
+    <string name="icon_clock" translatable="false">&#xf017;</string>
+    <string name="icon_exclamation_triangle" translatable="false">&#xf071;</string>
+    <string name="icon_offer" translatable="false">&#xf045;</string>
+    <string name="icon_delete" translatable="false">&#xf014;</string>
+    <string name="icon_tag" translatable="false">&#xf02b;</string>
+    <string name="icon_open" translatable="false">&#xf1ce;</string>
+    <string name="icon_signout" translatable="false">&#xf08b;</string>
+    <string name="icon_request" translatable="false">&#xf009;</string>
+    <string name="icon_square" translatable="false">&#xf096;</string>
+    <string name="icon_calendar" translatable="false">&#xf073;</string>
+    <string name="icon_arrow_down" translatable="false">&#xf078;</string>
+    <string name="icon_arrow_up" translatable="false">&#xf077;</string>
+    <string name="icon_users" translatable="false">&#xf0c0;</string>
+    <string name="icon_ban" translatable="false">&#xf05e;</string>
+    <string name="icon_flag" translatable="false">&#xf024;</string>
+    <string name="icon_comment" translatable="false">&#xf086;</string>
+    <string name="icon_paperclip" translatable="false">&#xf0c6;</string>
+    <string name="icon_share" translatable="false">&#xf1e0;</string>
+    <string name="icon_bookmark" translatable="false">&#xf02e;</string>
+    <string name="icon_download" translatable="false">&#xf0ed;</string>
+    <string name="icon_home" translatable="false">&#xf015;</string>
+    <string name="icon_send" translatable="false">&#xf1d8;</string>
+
+    <string name="icon_file_unknown" translatable="false">&#xf016;</string>
+    <string name="icon_file_image" translatable="false">&#xf1c5;</string>
+    <string name="icon_file_audio" translatable="false">&#xf1c7;</string>
+    <string name="icon_file_video" translatable="false">&#xf1c8;</string>
+    <string name="icon_file_word" translatable="false">&#xf1c2;</string>
+    <string name="icon_file_excel" translatable="false">&#xf1c3;</string>
+    <string name="icon_file_ppt" translatable="false">&#xf1c4;</string>
+    <string name="icon_file_pdf" translatable="false">&#xf1c1;</string>
+    <string name="icon_file_text" translatable="false">&#xf0f6;</string>
+    <string name="icon_check_tick" translatable="false">&#xf00c;</string>
+    <string name="icon_camera" translatable="false">&#xf030;</string>
+    <string name="icon_filter" translatable="false">&#xf0b0;</string>
+    <string name="icon_logout" translatable="false">&#xf011;</string>
+    <string name="icon_moon_half" translatable="false">&#xf186;</string>
+
+    <string name="icon_available" translatable="false">&#xf274;</string>
+    <string name="icon_unavailable" translatable="false">&#xf273;</string>
+    <string name="icon_hour_glass" translatable="false">&#xf250;</string>
+
+    <string name="icon_bell" translatable="false">&#xf0f3;</string>
+    <string name="icon_corp" translatable="false">&#xf19c;</string>
+    <string name="icon_delete_circle" translatable="false">&#xf05c;</string>
+    <string name="icon_info_sign" translatable="false">&#xf05a;</string>
+    <string name="icon_logs" translatable="false">&#xf0c5;</string>
+    <string name="icon_book" translatable="false">&#xf02d;</string>
+    <string name="icon_tags" translatable="false">&#xf02c;</string>
+    <string name="icon_cust_exp" translatable="false">&#xf025;</string>
+    <string name="icon_settiing" translatable="false">&#xf013;</string>
+
+    <string name="icon_recycle" translatable="false">&#xf1b8;</string>
+
+    <string name="icon_save" translatable="false">&#xf0c7;</string>
+    <string name="icon_up_arrow" translatable="false">&#xf148;</string>
+    <string name="icon_down_arrow" translatable="false">&#xf149;</string>
+    <string name="icon_eye" translatable="false">&#xf06e;</string>
+    <string name="icon_eye_slash" translatable="false">&#xf070;</string>
+    <string name="icon_forward" translatable="false">&#xf04e;</string>
+
+    <string name="icon_apple" translatable="false">&#xf179;</string>
+    <string name="icon_android" translatable="false">&#xf17b;</string>
+    <string name="icon_tablet" translatable="false">&#xf10a;</string>
+    <string name="icon_globe" translatable="false">&#xf0ac;</string>
+    <string name="icon_mobile" translatable="false">&#xf10b;</string>
+
+    <string name="icon_firefox" translatable="false">&#xf269;</string>
+    <string name="icon_chrome" translatable="false">&#xf268;</string>
+    <string name="icon_safari" translatable="false">&#xf267;</string>
+    <string name="icon_msexplorer" translatable="false">&#xf26b;</string>
+    <string name="icon_windows" translatable="false">&#xf17a;</string>
+    <string name="icon_edge" translatable="false">&#xf282;</string>
+    <string name="icon_opera" translatable="false">&#xf26a;</string>
+    <string name="icon_laptop" translatable="false">&#xf109;</string>
+    <string name="icon_bullhorn" translatable="false">&#xf0a1;</string>
+    <string name="icon_plussquare" translatable="false">&#xf0fe;</string>
+    <string name="icon_squarefill" translatable="false">&#xf0c8;</string>
+    <string name="icon_videopause" translatable="false">&#xf28c;</string>
+    <string name="icon_check_inside" translatable="false">&#xf14a;</string>
+    <string name="icon_play" translatable="false">&#xf04b;</string>
+    <string name="icon_arrow_right" translatable="false">&#xf178;</string>
+    <string name="icon_cross" translatable="false">&#xf00d;</string>
+    <string name="icon_job" translatable="false">&#xf19d;</string>
+    <string name="icon_cal_plus" translatable="false">&#xf271;</string>
+    <string name="icon_folder" translatable="false">&#xf114;</string>
+    <string name="icon_mail_forward" translatable="false">&#xf064;</string>
+    <string name="icon_hour_glass_filled" translatable="false">&#xf254;</string>
+    <string name="icon_folder_open" translatable="false">&#xf07c;</string>
+    <string name="icon_blank_cal" translatable="false">&#xf133;</string>
+    <string name="icon_rotate_left" translatable="false">&#xf0e2;</string>
+    <string name="icon_rotate_right" translatable="false">&#xf01e;</string>
+    <string name="icon_hand" translatable="false">&#xf25a;</string>
+    <string name="icon_check_cricle" translatable="false">&#xf05d;</string>
+    <string name="icon_user_outline" translatable="false">&#xf2c0;</string>
+    <string name="icon_key" translatable="false">&#xf084;</string>
+    <string name="icon_certificate" translatable="false">&#xf0a3;</string>
+    <string name="icon_ticket" translatable="false">&#xf145;</string>
+    <string name="icon_sort_down" translatable="false">&#xf0dd;</string>
+    <string name="icon_email_o" translatable="false">&#xf003;</string>
+    <string name="icon_arrow_right_double" translatable="false">&#xf101;</string>
+    <string name="icon_chevron_down_fill" translatable="false">&#xf13a;</string>
+    <string name="icon_check_circle" translatable="false">&#xf058;</string>
+    <string name="icon_sort_left" translatable="false">&#xf0d9;</string>
+
+    <string name="icon_comment_o" translatable="false">&#xf0e5;</string>
+    <string name="icon_sort_right" translatable="false">&#xf0da;</string>
+    <string name="icon_new_download" translatable="false">&#xf019;</string>
+
+    <string name="icon_video_camera" translatable="false">&#xf03d;</string>
+    <string name="icon_image" translatable="false">&#xf03e;</string>
+    <string name="icon_file" translatable="false">&#xf15c;</string>
+
+    <string name="icon_crop" translatable="false">&#xf125;</string>
+
+    <string name="icon_volume" translatable="false">&#xf028;</string>
+
+    <string name="icon_microphone" translatable="false">&#xf130;</string>
+    <string name="icon_minus" translatable="false">&#xf068;</string>
+    <string name="icon_angledown" translatable="false">&#xf107;</string>
+
+    <string name="icon_arrow_right_new" translatable="false">&#xf061;</string>
+    <string name="icon_shopping_cart" translatable="false">&#xf07a;</string>
+    <string name="icon_credit_card" translatable="false">&#xf09d;</string>
+    <string name="icon_gift" translatable="false">&#xf06b;</string>
+    <string name="icon_cutlery" translatable="false">&#xf0f5;</string>
+    <string name="icon_shopping_bag" translatable="false">&#xf290;</string>
+    <string name="icon_expand" translatable="false">&#xf055;</string>
+    <string name="icon_collapse" translatable="false">&#xf146;</string>
+    <string name="icon_sort_up" translatable="false">&#xf0de;</string>
+    <string name="icon_angle_next" translatable="false">&#xf105;</string>
+    <string name="icon_angle_prev" translatable="false">&#xf104;</string>
+    <string name="icon_refresh_alt" translatable="false">&#xf2f1;</string>
+    <string name="icon_light_bulb" translatable="false">&#xf0eb;</string>
+    <string name="icon_link" translatable="false">&#xf0c1;</string>
+    <string name="icon_wifi" translatable="false">&#xf1eb;</string>
+    <string name="icon_list" translatable="false">&#xf00b;</string>
+    <string name="icon_twitter" translatable="false"> &#xf099;</string>
+    <string name="icon_facebook" translatable="false"> &#xf09a;</string>
+    <string name="icon_linked_in" translatable="false"> &#xf0e1;</string>
+    <string name="icon_youtube" translatable="false">&#xf16a;</string>
+    <string name="icon_instagram" translatable="false">&#xf16d;</string>
+    <string name="icon_whishlist_fill" translatable="false">&#xf004;</string>
+    <string name="icon_whishlist" translatable="false">&#xf08a;</string>
+    <string name="icon_google" translatable="false">&#xf1a0;</string>
+    <string name="icon_pencil" translatable="false">&#xf040;</string>
+    <string name="icon_google_plus" translatable="false">&#xf0d5;</string>
+
+</resources>

@@ -1,0 +1,110 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="pager_margin">-10dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <!-- Per the design guidelines, navigation drawers should be between 240dp and 320dp:
+         https://developer.android.com/design/patterns/navigation-drawer.html -->
+
+    <!-- Floating action button (FAB) dimensions -->
+
+    <!-- Shadows, for FAB on platforms before Lollipop -->
+    <!-- Below shadow sizes should each increment fab_size by 1, to form incremental shadows -->
+
+    <!-- Other misc items -->
+
+
+    <!-- Arrival List Header -->
+
+    <!-- Arrivals Style B -->
+
+    <!-- Trip details - transit stop and line -->
+
+    <!-- Map -->
+    <dimen name="map_stop_icon_size">13dp</dimen>
+    <dimen name="map_stop_icon_size_fill">9dp</dimen>
+    <!-- Shadows, map stop icon -->
+    <!-- Below shadow sizes should each increment map_stop_icon_size by 1, to form incremental shadows -->
+
+    <!-- Route lines -->
+    <!-- Report issue design margins -->
+
+    <!-- About -->
+
+    <!-- Dialog -->
+
+    <!-- Tab size -->
+
+    <!-- Bikeshare markers -->
+    <!-- Shadows -->
+
+    <!-- Below shadow sizes should each increment map_small_bike_icon_size by 1, to form incremental shadows -->
+
+
+    <dimen name="map_small_bike_shadow_size_9">8dp</dimen>
+    <dimen name="map_small_bike_shadow_size_10">10dp</dimen>
+    <dimen name="map_small_bike_shadow_size_11">12dp</dimen>
+    <dimen name="map_small_bike_shadow_size_12">14dp</dimen>
+    <dimen name="map_small_bike_shadow_size_13">16dp</dimen>
+    <dimen name="map_small_bike_shadow_size_14">18dp</dimen>
+    <dimen name="map_small_bike_shadow_size_15">20dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Per the design guidelines, navigation drawers should be between 240dp and 320dp:
+         https://developer.android.com/design/patterns/navigation-drawer.html -->
+
+    <!-- Floating action button (FAB) dimensions -->
+
+    <!-- Shadows, for FAB on platforms before Lollipop -->
+    <!-- Below shadow sizes should each increment fab_size by 1, to form incremental shadows -->
+
+    <!-- Other misc items -->
+
+
+    <!-- Arrival List Header -->
+
+    <!-- Arrivals Style B -->
+
+    <!-- Trip details - transit stop and line -->
+
+    <!-- Map -->
+
+    <!-- Shadows, map stop icon -->
+    <dimen name="map_stop_shadow_size_1">@dimen/map_stop_icon_size</dimen>
+    <!-- Below shadow sizes should each increment map_stop_icon_size by 1, to form incremental shadows -->
+
+    <!-- Route lines -->
+    <!-- Report issue design margins -->
+
+    <!-- About -->
+
+    <!-- Dialog -->
+
+    <!-- Tab size -->
+
+    <!-- Bikeshare markers -->
+    <dimen name="bikeshare_small_marker_size">9dp</dimen>
+    <dimen name="map_small_bike_icon_size">13dp</dimen>
+    <dimen name="map_small_bike_icon_size_fill">10dp</dimen>
+    <!-- Shadows -->
+
+    <!-- Below shadow sizes should each increment map_small_bike_icon_size by 1, to form incremental shadows -->
+    <dimen name="map_small_bike_shadow_size_1">5dp</dimen>
+    <dimen name="map_small_bike_shadow_size_2">6dp</dimen>
+    <dimen name="map_small_bike_shadow_size_3">7dp</dimen>
+    <dimen name="map_small_bike_shadow_size_4">8dp</dimen>
+    <dimen name="map_small_bike_shadow_size_5">9dp</dimen>
+    <dimen name="map_small_bike_shadow_size_6">10dp</dimen>
+
+
+    <dimen name="inbetween_space">8dp</dimen>
+    <dimen name="bs_peek_height">90dp</dimen>
+    <dimen name="collapsing_height">450dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+</resources>

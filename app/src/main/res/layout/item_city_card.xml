@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cvMain"
+    android:layout_width="@dimen/_75sdp"
+    android:layout_height="@dimen/_75sdp"
+    android:layout_gravity="center"
+    android:background="@drawable/my_button_bg">
+
+    <LinearLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/_5sdp"
+        android:background="?android:selectableItemBackground"
+        android:clickable="true"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/city_image"
+            android:layout_width="@dimen/_45sdp"
+            android:layout_height="@dimen/_40sdp"
+            android:layout_gravity="center"
+            android:adjustViewBounds="true"
+            android:contentDescription="@null"
+            android:padding="@dimen/_3sdp"
+            tools:src="@drawable/three_in1" />
+
+        <TextView
+            android:id="@+id/city_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_marginTop="@dimen/_2sdp"
+            android:gravity="center"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/_9ssp"
+            tools:text="Washington"
+            tools:textColor="@color/white" />
+
+    </LinearLayout>
+
+</LinearLayout>

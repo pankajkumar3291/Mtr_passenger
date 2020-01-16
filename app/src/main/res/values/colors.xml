@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#232A32</color>
+    <color name="colorPrimaryDark">#13171b</color>
+    <color name="colorAccent">#0A98B3</color>
+
+    <color name="colorDarkSkyBlue">#0A98B3</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="green">#32a54e</color>
+    <color name="bg_color">#F4F4F4</color>
+    <color name="lightBlack">#808080</color>
+    <color name="gray_default">#cccccc</color>
+    <color name="blackMedium">#2B2B2B</color>
+    <color name="dark_gray">#A9A9A9</color>
+    <color name="darkRed">#CE2E22</color>
+    <color name="orangeLight">#F79646</color>
+
+    <color name="text_title_color">#333333</color>
+    <color name="text_gray_color">#9a9a9a</color>
+    <color name="border_color">#f7f7f7</color>
+
+    <!--   <color name="grey">#dadada</color>-->
+    <color name="grey">#A0A1A3</color>
+
+    <color name="background_material_light">#595959</color>
+
+
+    <color name="dark_grey">#838383</color>
+    <color name="grey_light">#DCDCDC</color>
+    <color name="app_grey">#417193</color>
+
+    <color name="grayIconTint">#727272</color>
+
+    <color name="shopAccent">#84ceca</color>
+    <color name="shopSecondary">#727272</color>
+    <color name="shopRatedStar">#ffeb5a</color>
+    <color name="shopFabRipple">#51b2ac</color>
+
+    <color name="galleryBg">#212121</color>
+    <color name="galleryCurrentItemOverlay">@android:color/transparent</color>
+    <color name="galleryItemOverlay">#cc000000</color>
+    <color name="galleryEdgeEffect">#b4ffffff</color>
+    <color name="galleryAccent">#FFC107</color>
+
+    <color name="weatherAccent">#84ceca</color>
+
+    <color name="gradientPeriodicClouds_c1">#3453d1</color>
+    <color name="gradientPeriodicClouds_c2">#6d69ff</color>
+    <color name="gradientPeriodicClouds_c3">#cd47c6</color>
+
+    <array name="gradientPeriodicClouds">
+        <item>@color/gradientPeriodicClouds_c1</item>
+        <item>@color/gradientPeriodicClouds_c2</item>
+        <item>@color/gradientPeriodicClouds_c3</item>
+    </array>
+
+    <color name="gradientCloudy_c1">#62bff5</color>
+    <color name="gradientCloudy_c2">#61b3e5</color>
+    <color name="gradientCloudy_c3">#5d8fb2</color>
+
+    <array name="gradientCloudy">
+        <item>@color/gradientCloudy_c1</item>
+        <item>@color/gradientCloudy_c2</item>
+        <item>@color/gradientCloudy_c3</item>
+    </array>
+
+    <color name="gradientMostlyCloudy_c1">#51bbf5</color>
+    <color name="gradientMostlyCloudy_c2">#71c3ee</color>
+    <color name="gradientMostlyCloudy_c3">#f3e5d2</color>
+
+    <array name="gradientMostlyCloudy">
+        <item>@color/gradientMostlyCloudy_c1</item>
+        <item>@color/gradientMostlyCloudy_c2</item>
+        <item>@color/gradientMostlyCloudy_c3</item>
+    </array>
+
+    <color name="gradientPartlyCloudy_c1">#5b64be</color>
+    <color name="gradientPartlyCloudy_c2">#6084df</color>
+    <color name="gradientPartlyCloudy_c3">#64a2ff</color>
+
+    <array name="gradientPartlyCloudy">
+        <item>@color/gradientPartlyCloudy_c1</item>
+        <item>@color/gradientPartlyCloudy_c2</item>
+        <item>@color/gradientPartlyCloudy_c3</item>
+    </array>
+
+    <color name="gradientClear_c1">#6d4fbe</color>
+    <color name="gradientClear_c2">#6c56be</color>
+    <color name="gradientClear_c3">#a189f1</color>
+
+    <color name="red">#E43F32</color>
+
+    <array name="gradientClear">
+        <item>@color/gradientClear_c1</item>
+        <item>@color/gradientClear_c2</item>
+        <item>@color/gradientClear_c3</item>
+    </array>
+
+    <!-- Tutorials -->
+    <color name="darkmagenta">#8B008B</color>
+    <color name="hintColor">#9ba9b9</color>
+    <color name="un_selected">#edfbff</color>
+    <color name="un_selected_trans">#FFedfbff</color>
+
+    <color name="circle_color_default_gray">#BDBDBD</color>
+    <color name="default_text_color">#80000000</color>
+
+
+    <color name="seperator_div">#E8E8E8</color>
+    <color name="suggestion_title">#212121</color>
+    <color name="md_greycol_600">#757575</color>
+
+
+</resources>

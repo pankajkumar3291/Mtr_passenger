@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Drop Shadow Stack -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#02b7b7b7" />
+            <size
+                android:width="@dimen/map_small_bike_shadow_size_15"
+                android:height="@dimen/map_small_bike_shadow_size_15" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#05b7b7b7" />
+            <size
+                android:width="@dimen/map_small_bike_shadow_size_14"
+                android:height="@dimen/map_small_bike_shadow_size_14" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="oval">
+            <stroke
+                android:width="1dp"
+                android:color="@android:color/transparent" />
+            <solid android:color="#10b7b7b7" />
+            <size
+                android:width="@dimen/map_small_bike_shadow_size_13"
+                android:height="@dimen/map_small_bike_shadow_size_13" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="oval">
+            <stroke
+                android:width="2dp"
+                android:color="@android:color/transparent" />
+            <solid android:color="#15b7b7b7" />
+            <size
+                android:width="@dimen/map_small_bike_shadow_size_12"
+                android:height="@dimen/map_small_bike_shadow_size_12" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="oval">
+            <stroke
+                android:width="3dp"
+                android:color="@android:color/transparent" />
+            <solid android:color="#20b7b7b7" />
+            <size
+                android:width="@dimen/map_small_bike_shadow_size_11"
+                android:height="@dimen/map_small_bike_shadow_size_11" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="oval">
+            <stroke
+                android:width="4dp"
+                android:color="@android:color/transparent" />
+            <solid android:color="#25b7b7b7" />
+            <size
+                android:width="@dimen/map_small_bike_shadow_size_10"
+                android:height="@dimen/map_small_bike_shadow_size_10" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="oval">
+            <stroke
+                android:width="4dp"
+                android:color="@android:color/transparent" />
+            <solid android:color="#30b7b7b7" />
+            <size
+                android:width="@dimen/map_small_bike_shadow_size_9"
+                android:height="@dimen/map_small_bike_shadow_size_9" />
+        </shape>
+    </item>
+    <!-- White outline -->
+    <item>
+        <shape android:shape="oval">
+            <stroke
+                android:width="4dp"
+                android:color="@android:color/transparent" />
+            <solid android:color="@android:color/white" />
+            <size
+                android:width="@dimen/map_stop_icon_size"
+                android:height="@dimen/map_stop_icon_size" />
+        </shape>
+    </item>
+    <!-- Fill -->
+    <item>
+        <shape android:shape="oval">
+            <stroke
+                android:width="7dp"
+                android:color="@android:color/transparent" />
+            <gradient
+                android:angle="90"
+                android:endColor="@color/darkmagenta"
+                android:startColor="@color/darkmagenta" />
+            <size
+                android:width="@dimen/map_stop_icon_size_fill"
+                android:height="@dimen/map_stop_icon_size_fill" />
+        </shape>
+    </item>
+</layer-list>
+

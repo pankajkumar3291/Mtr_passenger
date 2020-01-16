@@ -1,0 +1,264 @@
+<resources>
+    <string name="app_name" translatable="false">iRYDN</string>
+
+    <string name="dashboard_title">iRYDN</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+
+    <string name="Any">Any</string>
+    <string name="Sedan">Sedan</string>
+    <string name="Jeepeta">SUV</string>
+    <string name="Minivan">Minivan</string>
+    <string name="Moto_Concho">Moter Cycle</string>
+
+    <string name="no_internet_label">Internet Not Available</string>
+    <string name="check_your_connection">Please check your connection !!!</string>
+    <string name="go_settings">Go Settings</string>
+    <string name="no_net_connection">Internet Not Available, Please check your connection !!!</string>
+
+    <string name="book_your_rides">Book Your Rides</string>
+    <string name="your_rides">Your Rides</string>
+    <string name="rate">Rate</string>
+    <string name="qr_code">QR Code</string>
+    <string name="scanner">Scanner</string>
+    <string name="reallyExit">Do you really want to exit?</string>
+    <string name="are_you_sure_you_want_to_logout">Are you sure you want to Logout?</string>
+    <string name="rate_app_on_playstore">Please, rate this app on PlayStore.</string>
+    <string name="cancel_str">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="ok">OK</string>
+    <string name="write_your_review_for_driver">Write your review for driver...</string>
+    <string name="how_was_driver">How Was The Driver?</string>
+    <string name="forget_your_password">Forgot your password?</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="Choose_your_language">Choose Your Language</string>
+    <string name="add_your_custom_map">ADD YOUR CUSTOM MAP</string>
+    <string name="map_style">You can set your map style, as you like</string>
+
+    <string name="choose_option">Choose Option</string>
+    <string name="apply_coupon">Apply Coupon</string>
+    <string name="drivers_are_another_route">Drivers are another route Please try again</string>
+
+    <string name="default_str" translatable="false">DEFAULT</string>
+    <string name="dark" translatable="false">DARK</string>
+    <string name="paper" translatable="false">PAPER</string>
+    <string name="custom" translatable="false">CUSTOM</string>
+    <string name="retro" translatable="false">RETRO</string>
+
+    <string name="add_contact">Add new contact</string>
+    <string name="enter_coupon_code">Enter coupon code</string>
+    <string name="user_drop_location">User Drop Location</string>
+    <string name="route_not_available">Route not available, Please choose \n another drop location</string>
+    <string name="no_data_to_display">No data to display</string>
+    <string name="ride_schedule">Ride Scheduled</string>
+    <string name="will_receive_pickup_before_15_minutes">You Will Receive Ride Details 15 minutes before Pick Up Time</string>
+
+    <string name="all_fields_required">All fields are required</string>
+    <string name="valid_email">Please enter valid email</string>
+    <string name="password_min_character">Password minimum character should be 6</string>
+    <string name="allow">Allow</string>
+    <string name="location_header" translatable="false">Location &amp; Read permission is required</string>
+    <string name="location_and_read_permission" translatable="false">Turn on Location to quickly see available rides near you. Read permission will let us read contact.</string>
+    <string name="allow_permission_from_settings">Please allow all permission from settings</string>
+    <string name="go_to_setting">Go to Setting</string>
+    <string name="exit">Exit</string>
+    <string name="service_unavailable">Service unavailable</string>
+    <string name="do_not_server_location">Sorry, we don\'t serve this location yet.</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="vehicle_array">
+        <item>@string/Any</item>
+        <item>@string/Sedan</item>
+        <item>@string/Jeepeta</item>
+        <item>@string/Minivan</item>
+        <item>@string/Moto_Concho</item>
+    </string-array>
+
+    <string name="english" translatable="false">ENGLISH</string>
+    <string name="spanish" translatable="false">ESPAÑOL</string>
+
+    <string name="change_language">Change Language</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="your_full_name">Your Full Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="country">Country</string>
+    <string name="login">LOG IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="order_car_now">Call Driver</string>
+    <string name="pick_up">Pick Up</string>
+    <string name="fare">Fare</string>
+    <string name="details">Details</string>
+    <string name="promo">Promo</string>
+    <string name="from">From Where To Pick Up?</string>
+    <string name="to">Where to get Drop?</string>
+    <string name="pay_by_card">Pay By Card</string>
+    <string name="your_car">Your Car</string>
+    <string name="back_press_again">Press Again to Exit</string>
+    <string name="pick_up_location">Pick Up Location</string>
+    <string name="drop_location">Drop Location</string>
+    <string name="fcm_message" translatable="false">message</string>
+    <string name="default_notification_channel_id" translatable="false">205</string>
+
+    <string name="dsv_ex_msg_dont_set_lm" translatable="false">You should not set LayoutManager on DiscreteScrollView.class instance. Library uses a special one. Just don\'t call the method.</string>
+    <string name="dsv_ex_msg_adapter_wrong_recycler" translatable="false">InfiniteScrollAdapter is supposed to work only with DiscreteScrollView</string>
+
+    <string name="update_play_services">My Taxi Ride uses google play services for some critical features.</string>
+    <string name="please_update">Please Update!</string>
+    <string name="do_you_want_to_update">Do you want to update?</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Cancel</string>
+
+    <!-- Sliding Demo -->
+    <string name="srn_drawer_open" translatable="false">Open</string>
+    <string name="srn_drawer_close" translatable="false">Close</string>
+    <string name="srn_ex_no_menu_view" translatable="false">No view for menu provided. You must either call .withMenuView(View) or pass a valid resource id to .withMenuLayout(int)</string>
+    <string name="srn_ex_bad_content_view" translatable="false">Your content view must contain exactly one child. Make sure you call inject() after setContentView().</string>
+    <string name="notification">Notifications</string>
+    <string name="language">Change Language</string>
+    <string name="no_taxi_available">No Taxi Available</string>
+    <string name="book_your_ride">Book Your Ride</string>
+    <string name="your_trips">Your Trips</string>
+    <string name="about">About</string>
+    <string name="share">Share</string>
+    <string name="support">Support</string>
+    <string name="settings">Settings</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="logout">Logout</string>
+    <string name="ride_later">Ride Later</string>
+    <string name="ride_now">Ride Now</string>
+    <string name="confirm_booking">Confirm Booking</string>
+    <string name="title_activity_other" translatable="false">OtherActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="select">Select</string>
+    <string name="choose_on_map">Choose From Map</string>
+    <string name="recent_searches">Recent Searches</string>
+    <string name="set_work">Work</string>
+    <string name="set_home">Home</string>
+    <string name="your_location">Your Location</string>
+    <string name="my_locations">My Locations</string>
+
+    <string name="set_location">Set Location</string>
+    <string name="set_my_location">Set My Location</string>
+    <string name="set_work_location">Set Work location</string>
+    <string name="set_home_location">Set Home location</string>
+    <string name="unable_to_get_location">Unable to set location</string>
+    <string name="reason1">Driver denied to go to my destination</string>
+    <string name="reason2">Driver denied to come to pick up</string>
+    <string name="reason3">Expected a shorter wait time</string>
+    <string name="reason4">Unable to contact driver</string>
+    <string name="reason5">My reason is not listed</string>
+    <string name="reason0">Please tell us why you want to cancel?</string>
+
+    <string name="reason_not_selected">Reason Not Selected</string>
+    <string name="place_removed">Place Removed From Your Favourites</string>
+    <string name="Select_Pick_Up">Select Pick Up</string>
+    <string name="Select_Dropped_Off">Select Dropped Off</string>
+    <string name="call_driver">Call Driver</string>
+    <string name="cancel_ride">Cancel Ride</string>
+    <string name="more">More</string>
+    <string name="Estimated_Fare_to_be_paid">Estimated Fare To Be Paid : ${0}</string>
+    <string name="Pick_Up_in">Pick Up in {0}</string>
+    <string name="my_self">My Self</string>
+    <string name="payment_type">Payment Type</string>
+    <string name="contact_type">Contact Type</string>
+    <string name="total_distance">Total Distance</string>
+    <string name="approx_fare">Approx Fare</string>
+    <string name="total_time">Total Time</string>
+    <string name="coupons">Coupons</string>
+    <string name="are_you_sure_you">Are you sure you want to cancel this trip?</string>
+    <string name="Cancel_Trip">Cancel Trip</string>
+    <string name="cash">Cash</string>
+    <string name="company_credit">Company Credit</string>
+    <string name="debit_card">By Debit Card</string>
+    <string name="Voucher">Using Voucher</string>
+    <string name="credit_card">By Credit Card</string>
+    <string name="reason_for_cancellation">Reason For Cancellation:</string>
+    <string name="Name_Not_Set">Name Not Set</string>
+    <string name="my_taxi_ride" translatable="false">My Taxi Ride</string>
+    <string name="Drop_off_in">Dropped Off in {0}</string>
+    <string name="Address_Not_Available">Address Not Available</string>
+    <string name="Fetching_Address">Fetching Address....</string>
+    <string name="textMessage">Driver Is Waiting For You</string>
+    <string name="Contact_Number_Not_Available">Contact Number Not Available</string>
+    <string name="driver_is_waiting_for_you">Driver is waiting for you</string>
+    <string name="Select_Date_And_Time">Select Pick Up Date And Time</string>
+
+    <string name="privacy_policy1">This Privacy Policy governs the manner in which My Taxi Ride Systems collects, uses, maintains and discloses information collected from users
+        (each, a "User") of the http://mytaxiride.com/ website ("Site"). This privacy policy applies to the Site and all products and services offered by My Taxi Ride Systems.
+        \n\nPersonal identification information
+\n\nWe may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+\n\nNon-personal identification information
+\n\nWe may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+\n\nWeb browser cookies
+\n\nOur Site may use "cookies" to enhance User experience. User\'s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+\n\nHow we use collected information
+\n\nMy Taxi Ride Systems may collect and use Users personal information for the following purposes:
+\n\n- To improve customer service
+        Information you provide helps us respond to your customer service requests and support needs more efficiently.
+        - To personalize user experience
+        We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+        - To improve our Site
+        We may use feedback you provide to improve our products and services.
+        - To process payments
+        We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+        - To send periodic emails
+        We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+\n\nHow we protect your information
+\n\nWe adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+\n\nSensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+\n\nSharing your personal information
+\n\nWe do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+\n\nChanges to this privacy policy
+\n\nMy Taxi Ride Systems has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+\n\nYour acceptance of these terms
+\n\nBy using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+\n\nContacting us
+\n\nIf you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+\nMy Taxi Ride Systems
+\nhttp://mytaxiride.com/
+\n646-353-5746
+\nmiguelp6@mytaxiride.com
+\n\nThis document was last updated on September 29, 2013</string>
+
+    <string name="about_description">MY Taxi Ride - Discover The Ultimate Taxi Dispatch Software \n\nWhether you are billing customers, taking reservation, dispatching cars or cashiering drivers, My Taxi Ride White Label Dispatch System is just for you! Our system is designed to provide smart mobility and prompt transportation, while minimizing downtime. This is an ideal system in the world of navigation for those who are seeking a powerful tool for powering up or setting tariffs.\n\nMy Taxi RideTaxi Dispatch System for Fleet Management delivers high standard services of flawlessly maintained vehicles to our clients. You can choose an apt taxi, according to your needs and we can provide you a greater degree of flexibility even for unexpected changes to the day’s journey. We made it possible for clients to launch their branded mobile app both for passengers and drivers in Google App and Apple Store market.
+
+        Download today and avail the benefits! </string>
+
+    <string name="technical_support">24/7 Technical Support</string>
+    <string name="customer_care">Customer Care</string>
+    <string name="we_have_the_team">We have the team</string>
+    <string name="ready_to_listen">Ready to listen</string>
+    <string name="we_belive_that_our_customer">We believe that our customers are the most important part of our business. We are always available and ready to listen to any issues you have or any potential improvements we can make to our system.</string>
+    <string name="contact_us_or_email_us">Contact us on 718&#8211;666&#8211;9848 &amp; 212&#8211;920&#8211;7641 or \nemail us on customercare@irydn.com</string>
+
+    <string name="dedicated_to_you">Dedicated to you</string>
+    <string name="days_a_year_rain_or_shine">24/7, 365 days a year, rain or shine, we are there</string>
+    <string name="we_are_dedicated_to_provide_you_with_best">We are dedicated to provide you with the best in technical support.</string>
+    <string name="at_my_taxi_ride_dispatch_system">At iRYDN Dispatch System we believe that support isn’t just about answering the phone when things go wrong. What’s important is the speed at which we address and solve any issues, so that your business has the solid foundations to become successful and thrive.</string>
+
+    <string name="we_have_the_numbers">We have the numbers</string>
+    <string name="over_fifty_support_staff">Over 50 support staff on-call throughout the UK ready to respond instantly</string>
+    <string name="our_technical_support_is_delivered_in_three_ways">Our 24/7 Technical Support is delivered in three ways. The 24/7 Technical Support Helpline, Field-based Engineers and Mobile Data &amp; Radio Equipment Repairs. Each department consists of experienced and highly skilled individuals, trained to deal with any issue no matter how complex.</string>
+
+    <string name="we_have_the_experience">We have the experience</string>
+    <string name="years_of_technological_expertise_and_team">20 years of technological expertise and a team who have seen it all and know our software inside out</string>
+    <string name="for_over_twenty_years_we_have_been_world_market">For over 20 years we have been the World’s market leader in taxi dispatch systems. Our comprehensive knowledge and understanding of the industry, built on the experience gained from over 1,000 installations, is unmatched by anyone else. At iRYDN Dispatch System, we understand that your business cannot experience any disruption that could result in loss of revenue or reputation, which in turn could result in driver dissatisfaction and poor staff morale. That’s why, if there are any technical issues, we will act swiftly and efficiently to resolve your problems.</string>
+
+    <string name="always_striving_to_improve">Always striving to improve</string>
+    <string name="over_ten_millions_pounds_have_beenn_invested">Over 10 MILLION POUNDS have been invested into R &amp; D &amp; System Support in the last 5 years!</string>
+    <string name="we_continue_to_invest_heavily_in_our_infrastructure">We continue to invest heavily in our infrastructure to ensure that we can consistently deliver the highest level of 24/7 TECHNICAL SUPPORT to our ever-increasing customer base. With iRYDN Dispatch System’s support in place, you are safe in the knowledge that you are getting the best possible system support available anywhere.</string>
+
+    <string name="a_dedicated_committed_team_of_individuals_willing">A dedicated &amp; committed team of individuals willing to go the extra mile to guarantee your success</string>
+    <string name="if_a_problem_cannot_be_default_with_via_our_technical_support">If a problem cannot be dealt with via our 24/7 Technical Support Help Line then one of our many proficient and experienced field-based engineers will be dispatched to your office to resolve the issue. We have a highly skilled and versatile team based at iRYDN Dispatch System International HQ to deal with any faulty or damaged mobile data terminals and radio equipment. Be it general wear-and tear or driver ‘mishaps’, our Support Team is ready to help.</string>
+
+    <string name="unique_to_our_support">Unique to our support</string>
+    <string name="not_available">N/A</string>
+    <string name="remote_monitoring_tool_we_fix_a_problem_before_realize">Remote monitoring tool: We fix a problem before you even realize it exists True Critical Cover: We have the capacity to dispatch an iRYDN Dispatch System engineer overnight and not the following morning! No hidden costs: One flat 24/7 support monthly rate, whatever happens NO SUB-CONTRACTING: At iRYDN Dispatch System we believe our services must be provided in house</string>
+    <string name="text_drop_location">Please fill your Drop Location</string>
+    <string name="turn_on_location">To continue, turn on device location, which uses Google\'s location service</string>
+    <string name="plese_select_pyment_type">Please select payment type</string>
+
+</resources>

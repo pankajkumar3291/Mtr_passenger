@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "173428910023",
+    "firebase_url": "https://map-for-work-asset-120742460.firebaseio.com",
+    "project_id": "map-for-work-asset-120742460",
+    "storage_bucket": "map-for-work-asset-120742460.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173428910023:android:d00ea5fbadf4ee68",
+        "android_client_info": {
+          "package_name": "com.mtr.irydn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173428910023-q90rttuhge9dug78vi7i2o49jqa6qrv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwy4J1T4qCaLIDP5oDmm3xqWNYf1M4sps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

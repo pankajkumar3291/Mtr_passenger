@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/by_cash"
+        android:icon="@drawable/ic_by_cash"
+        android:title="@string/cash" />
+    <item
+        android:id="@+id/by_debit_card"
+        android:icon="@drawable/ic_bycredit__card"
+        android:title="@string/company_credit" />
+
+    <!--<item
+        android:id="@+id/by_Voucher"
+        android:icon="@drawable/ic_by_voucher"
+        android:title="@string/Voucher" />
+    <item
+        android:id="@+id/by_credit_card"
+        android:icon="@drawable/ic_bycredit__card"
+        android:title="@string/credit_card" />-->
+
+</menu>

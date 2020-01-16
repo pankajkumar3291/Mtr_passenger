@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <!--  <item android:id="@+id/reason0" android:title="@string/reason0" />-->
+    <item android:id="@+id/reason1" android:title="@string/reason1" />
+    <item android:id="@+id/reason2" android:title="@string/reason2" />
+    <item android:id="@+id/reason3" android:title="@string/reason3"/>
+    <item android:id="@+id/reason4" android:title="@string/reason4"/>
+    <item android:id="@+id/reason5" android:title="@string/reason5"/>
+</menu>

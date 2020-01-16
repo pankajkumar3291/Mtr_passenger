@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/self_contact"
+        android:icon="@drawable/ic_user"
+        android:title="@string/my_self" />
+
+    <item
+        android:id="@+id/add_new_contact"
+        android:icon="@drawable/add_new_contact"
+        android:title="@string/add_contact" />
+
+</menu>

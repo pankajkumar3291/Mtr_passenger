@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="email">Email</string>
+
+    <string name="change_language">Cambiar Idioma</string>
+    <string name="password">Contraseña</string>
+    <string name="forgot_password">Se Te Olvidó Tu Contraseña?</string>
+
+    <string name="Any">Alguna</string>
+    <string name="Sedan">Sedán</string>
+    <string name="Jeepeta">SUV</string>
+    <string name="Minivan">Monovolumen</string>
+    <string name="Moto_Concho">Motocicleta</string>
+
+    <string name="no_internet_label">Internet no disponible</string>
+    <string name="check_your_connection">Por favor revise su conexión !!!</string>
+    <string name="go_settings">Ir a configuración</string>
+    <string name="no_net_connection">Internet no disponible, compruebe su conexión !!!</string>
+
+    <string name="phone_number">Número De Teléfono</string>
+    <string name="your_full_name">Tu Nombre Completo</string>
+    <string name="create_account">Crear Una Cuenta</string>
+    <string name="country">País</string>
+    <string name="sign_up">REGÍSTRATE</string>
+    <string name="drivers_are_another_route">Los conductores son otra ruta. Vuelve a intentarlo.</string>
+
+    <string name="login">Iniciar Sesión</string>
+    <string name="order_car_now">Conductor De Llamadas</string>
+    <string name="pick_up">Recoger</string>
+    <string name="fare">Tarifa</string>
+    <string name="details">Detalles</string>
+    <string name="promo">Promoción</string>
+    <string name="from">¿De dónde recoger?</string>
+    <string name="to">Hacia</string>
+    <string name="pay_by_card">Pagar Por Tarjeta</string>
+    <string name="your_car">Tu Carro</string>
+    <string name="back_press_again">Presione Atrás Nuevamente Para Salir.</string>
+    <string name="pick_up_location">Lugar De Recogida…</string>
+    <string name="drop_location">Ubicar Ubicación…</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="vehicle_array">
+        <item>@string/Any</item>
+        <item>@string/Sedan</item>
+        <item>@string/Jeepeta</item>
+        <item>@string/Minivan</item>
+        <item>@string/Moto_Concho</item>
+
+    </string-array>
+
+    <string name="update_play_services">My Taxi Ride usa los servicios de Google Play para algunas funciones críticas.</string>
+    <string name="please_update">Por Favor Actualice!!</string>
+    <string name="do_you_want_to_update">Quieres actualiza?</string>
+    <string name="OK">DE ACUERDO</string>
+    <string name="Cancel">Cancelar</string>
+    <string name="book_your_ride">Reserve Su Viaje</string>
+    <string name="your_trips">Sus viajes</string>
+    <string name="about">Acerca De</string>
+    <string name="share">Compartir</string>
+    <string name="support">Apoyo</string>
+    <string name="privacy_policy">Política De Privacidad</string>
+    <string name="settings">Ajustes</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="ride_later">Paseo más tarde</string>
+    <string name="ride_now">Montar Ahora</string>
+    <string name="confirm_booking">Reserva Confirmada</string>
+    <string name="select">Seleccionar</string>
+    <string name="recent_searches">Búsquedas Recientes</string>
+    <string name="set_work">Work</string>
+    <string name="place_removed">Lugar Eliminado De Tus Favoritos</string>
+    <string name="Select_Pick_Up">Seleccione Recoger</string>
+    <string name="Select_Dropped_Off">Seleccione Droped Off</string>
+    <string name="call_driver">Conductor De Llamadas</string>
+    <string name="cancel_ride">Cancelar Viaje</string>
+    <string name="more">Más</string>
+    <string name="Estimated_Fare_to_be_paid">Tarifa Estimada A Pagar :{0}</string>
+    <string name="Pick_Up_in">Recoger En {0}</string>
+    <string name="my_self">Mi Yo</string>
+    <string name="payment_type">Tipo De Pago</string>
+    <string name="total_distance">Distancia Total</string>
+    <string name="approx_fare">Precio Aproximado</string>
+    <string name="total_time">Tiempo Total</string>
+    <string name="coupons">Cupones</string>
+    <string name="reason1">Conductor denegado para ir a mi destino</string>
+    <string name="unable_to_get_location">No se puede establecer la ubicación</string>
+    <string name="set_home_location">Establecer ubicación de inicio</string>
+    <string name="reason2">Conductor negado a venir a recoger</string>
+    <string name="reason3">Se espera un tiempo de espera más corto.</string>
+    <string name="reason4">No se puede contactar con el conductor</string>
+    <string name="reason5">Mi razon no esta listada</string>
+    <string name="reason0">Por favor dinos por qué quieres cancelar?</string>
+    <string name="set_work_location">Establecer ubicación de trabajo</string>
+    <string name="set_my_location">Establecer mi ubicación</string>
+    <string name="set_location">Escoger localización</string>
+    <string name="my_locations">Mis localizaciones</string>
+    <string name="your_location">Tu ubicación</string>
+    <string name="set_home">Casa</string>
+    <string name="language">Cambiar idioma</string>
+    <string name="are_you_sure_you">Seguro que quieres cancelar este viaje?</string>
+    <string name="Cancel_Trip">Cancelar Viaje</string>
+    <string name="cash">Efectivo</string>
+    <string name="company_credit">Crédito de la compañía</string>
+    <string name="debit_card">Por Tarjeta De Débito</string>
+    <string name="Voucher">Usando El Vale</string>
+    <string name="credit_card">Con Tarjeta De Crédito</string>
+    <string name="reason_for_cancellation">Razón De La Cancelación:</string>
+    <string name="Name_Not_Set">Nombre No Establecido</string>
+    <string name="Drop_off_in">Devuelto en {0}</string>
+    <string name="Address_Not_Available">Dirección No Disponible</string>
+    <string name="Fetching_Address">Dirección  De Captura....</string>
+    <string name="textMessage">El conductor te está esperando</string>
+    <string name="Contact_Number_Not_Available">Número De Contacto No Disponible</string>
+    <string name="driver_is_waiting_for_you">El Conductor Te Está Esperando</string>
+    <string name="Select_Date_And_Time">Seleccione La Fecha Y Hora De Recogida</string>
+
+    <string name="contact_us_or_email_us">Contáctanos en 718&#8211;666&#8211;9848 &amp; 212&#8211;920&#8211;7641 o \ncorreo electrónico nosotros en customercare@irydn</string>
+    <string name="route_not_available">Ruta no disponible, elija \n otra ubicación de caída</string>
+    <string name="for_over_twenty_years_we_have_been_world_market">Durante más de 20 años, hemos sido líderes del mercado mundial en sistemas de despacho de taxis. Nuestro amplio conocimiento y comprensión de la industria, basado en la experiencia obtenida de más de 1,000 instalaciones, no tiene comparación con nadie más. En MyTaxiRide Dispatch System, entendemos que su empresa no puede experimentar ninguna interrupción que podría resultar en la pérdida de ingresos o reputación, lo que a su vez podría resultar en la insatisfacción del conductor y la falta de moral del personal. Por eso, si hay algún problema técnico, actuaremos de manera rápida y eficiente para resolver sus problemas.</string>
+
+    <string name="Choose_your_language">Elige tu idioma</string>
+    <string name="a_dedicated_committed_team_of_individuals_willing">Un equipo dedicado y comprometido de individuos dispuestos a hacer un esfuerzo adicional para garantizar su éxito.</string>
+    <string name="about_description">MY Taxi Ride: descubra el último software de despacho de taxis \n\nYa sea que esté facturando a los clientes, tomando reservaciones, despachando automóviles o llevando a los conductores, ¡el Sistema de Despacho My Taxi Ride White Label es solo para usted! Nuestro sistema está diseñado para proporcionar movilidad inteligente y transporte rápido, al tiempo que minimiza el tiempo de inactividad. Este es un sistema ideal en el mundo de la navegación para aquellos que buscan una herramienta poderosa para aumentar o establecer tarifas.\n\nMy Taxi RideTaxi Dispatch System para la gestión de flotas ofrece servicios de alto nivel de vehículos perfectamente mantenidos a nuestros clientes. Puede elegir un taxi apto, de acuerdo con sus necesidades y podemos brindarle un mayor grado de flexibilidad incluso para cambios inesperados en el viaje del día. Hacemos posible que los clientes lancen su aplicación móvil de marca tanto para pasajeros como para conductores en el mercado de aplicaciones de Google y Apple Store. Descargar hoy y aprovechar los beneficios!</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="add_contact">Añadir nuevo contacto</string>
+    <string name="add_your_custom_map">AGREGA TU MAPA PERSONALIZADO</string>
+    <string name="all_fields_required">Todos los campos son obligatorios</string>
+    <string name="allow">Permitir</string>
+    <string name="allow_permission_from_settings">Permita todos los permisos de la configuración</string>
+    <string name="always_striving_to_improve">Siempre luchando por mejorar</string>
+    <string name="are_you_sure_you_want_to_logout">¿Seguro que quieres cerrar sesión?</string>
+    <string name="rate_app_on_playstore">Por favor, califique esta aplicación en PlayStore.</string>
+    <string name="book_your_rides">Reserve sus viajes</string>
+    <string name="cancel_str">Cancelar</string>
+    <string name="choose_on_map">Elegir del mapa</string>
+    <string name="contact_type">Tipo de Contacto</string>
+    <string name="customer_care">Atención al cliente</string>
+    <string name="dashboard_title">iRYDN</string>
+    <string name="dedicated_to_you">Dedicado a ti</string>
+    <string name="do_not_server_location">Lo sentimos, todavía no servimos a esta ubicación.</string>
+    <string name="enter_coupon_code">Introduce el código de cupón</string>
+    <string name="exit">Salida</string>
+    <string name="first_name">Primer nombre</string>
+    <string name="forget_your_password">Olvidaste tu contraseña?</string>
+    <string name="go_to_setting">Ir a configuración</string>
+    <string name="how_was_driver">¿Cómo estuvo el conductor?</string>
+    <string name="last_name">Apellido</string>
+    <string name="map_style">Puedes configurar tu estilo de mapa como quieras</string>
+    <string name="no_data_to_display">no hay información para mostrar</string>
+    <string name="not_available">N / A</string>
+    <string name="notification">Notificaciones</string>
+    <string name="ok">Okay</string>
+    <string name="password_min_character">El carácter mínimo de la contraseña debe ser 6</string>
+    <string name="qr_code">Código QR</string>
+    <string name="rate">Tarifa</string>
+    <string name="ready_to_listen">Listo para escuchar</string>
+    <string name="reallyExit">¿Realmente desea salir?</string>
+    <string name="ride_schedule">Paseo programado</string>
+    <string name="scanner">Escáner</string>
+    <string name="service_unavailable">Servicio no disponible</string>
+    <string name="submit">Enviar</string>
+    <string name="technical_support">24/7  Soporte técnico</string>
+    <string name="unique_to_our_support">Único a nuestro soporte</string>
+    <string name="user_drop_location">Ubicación de caída del usuario</string>
+    <string name="valid_email">Por favor introduzca un correo electrónico válido</string>
+    <string name="we_are_dedicated_to_provide_you_with_best">Estamos dedicados a brindarle lo mejor en soporte técnico.</string>
+    <string name="we_belive_that_our_customer">Creemos que nuestros clientes son la parte más importante de nuestro negocio. Siempre estamos disponibles y listos para escuchar cualquier problema que tenga o cualquier mejora potencial que podamos hacer a nuestro sistema.</string>
+    <string name="we_have_the_experience">Tenemos la experiencia</string>
+    <string name="we_continue_to_invest_heavily_in_our_infrastructure">Continuamos invirtiendo fuertemente en nuestra infraestructura para asegurarnos de que podamos ofrecer constantemente el más alto nivel de SOPORTE TÉCNICO 24/7 a nuestra base de clientes cada vez mayor. Con el soporte de iRYDN Dispatch System implementado, está seguro de que está obteniendo el mejor soporte de sistema disponible en cualquier lugar.</string>
+    <string name="we_have_the_numbers">Tenemos los numeros</string>
+    <string name="we_have_the_team">Tenemos el equipo</string>
+    <string name="will_receive_pickup_before_15_minutes">Recibirá los detalles del viaje 15 minutos antes de la hora de recogida</string>
+    <string name="write_your_review_for_driver">Escribe tu opinión para el conductor ...</string>
+    <string name="years_of_technological_expertise_and_team">20 años de experiencia tecnológica y un equipo que lo ha visto todo y conoce nuestro software al revés</string>
+    <string name="your_rides">Sus paseos</string>
+    <string name="at_my_taxi_ride_dispatch_system">En iRYDN Dispatch System creemos que el soporte no se trata solo de contestar el teléfono cuando las cosas salen mal. Lo importante es la velocidad a la que abordamos y resolvemos cualquier problema, para que su negocio tenga las bases sólidas para tener éxito y prosperar.</string>
+    <string name="days_a_year_rain_or_shine">24/7, 365</string>
+    <string name="no_taxi_available">No hay taxis disponibles</string>
+    <string name="reason_not_selected">Motivo no seleccionado</string>
+    <string name="remote_monitoring_tool_we_fix_a_problem_before_realize">Herramienta de monitoreo remoto: Solucionamos un problema antes de que se dé cuenta de que existe. Cobertura crítica verdadera: ¡Tenemos la capacidad de enviar a un ingeniero del sistema de despacho iRYDN durante la noche y no a la mañana siguiente! Sin costos ocultos: una tarifa mensual fija de soporte las 24 horas, los 7 días de la semana, pase lo que pase NO HAY SUBCONTRATACIÓN: en iRYDN Dispatch System creemos que nuestros servicios deben brindarse internamente</string>
+    <string name="our_technical_support_is_delivered_in_three_ways">Nuestro soporte técnico 24/7 se entrega de tres maneras. La línea de ayuda de asistencia técnica las 24 horas, los 7 días de la semana, ingenieros de campo y datos móviles &amp; Reparaciones de equipos de radio. Cada departamento está formado por personas experimentadas y altamente calificadas, capacitadas para tratar cualquier problema, sin importar cuán complejo sea.</string>
+    <string name="over_fifty_support_staff">Más de 50 empleados de soporte de guardia en todo el Reino Unido listos para responder al instante</string>
+    <string name="over_ten_millions_pounds_have_beenn_invested">Se han invertido más de 10 MILLONES DE LIBRAS en R &amp; Húmedo; Soporte del sistema en los últimos 5 años!</string>
+    <string name="if_a_problem_cannot_be_default_with_via_our_technical_support">Si no se puede resolver un problema a través de nuestra Línea de ayuda de soporte técnico las 24 horas, los 7 días de la semana, se enviará a su oficina a uno de nuestros muchos ingenieros competentes y experimentados para resolver el problema. Contamos con un equipo altamente calificado y versátil con sede en iRYDN Dispatch System International HQ para hacer frente a cualquier terminal de datos móviles y equipos de radio defectuosos o dañados. Ya sea por desgaste general o por \"percances\" del conductor, nuestro equipo de soporte está listo para ayudarlo.</string>
+
+    <string name="privacy_policy1">Esta Política de privacidad rige la manera en que My Taxi Ride Systems recopila, usa, mantiene y divulga la información recopilada de los usuarios
+        (cada uno, un "Usuario") de la http://mytaxiride.com/ sitio web ("Sitio"). Esta política de privacidad se aplica al Sitio y a todos los productos y servicios ofrecidos por My Taxi Ride Systems.
+        \n\nInformación de identificación personal
+\n\nPodemos recopilar información de identificación personal de los Usuarios de varias maneras, que incluyen, entre otras, cuando los Usuarios visitan nuestro sitio, se registran en el sitio, hacen un pedido y en relación con otras actividades, servicios, características o recursos que realizamos. disponible en nuestro sitio. Se puede solicitar a los usuarios, según corresponda, nombre, dirección de correo electrónico, dirección postal, número de teléfono. Sin embargo, los usuarios pueden visitar nuestro sitio de forma anónima. Recopilaremos información de identificación personal de los Usuarios solo si voluntariamente nos envían dicha información. Los usuarios siempre pueden negarse a proporcionar información de identificación personal, excepto que puede evitar que participen en ciertas actividades relacionadas con el Sitio.
+\n\nInformación de identificación no personal
+\n\nPodemos recopilar información de identificación no personal sobre los Usuarios cuando interactúan con nuestro Sitio. La información de identificación no personal puede incluir el nombre del navegador, el tipo de computadora y la información técnica sobre los medios de conexión de los Usuarios a nuestro Sitio, como el sistema operativo y los proveedores de servicios de Internet utilizados y otra información similar.
+\n\nCookies del navegador web
+\n\nNuestro sitio puede usar "cookies" para mejorar la experiencia del usuario. Usuaria\'s El navegador web coloca cookies en su disco duro con fines de mantenimiento de registros y, a veces, para rastrear información sobre ellos. El usuario puede elegir configurar su navegador web para rechazar las cookies, o para alertarlo cuando se envían cookies. Si lo hacen, tenga en cuenta que algunas partes del Sitio pueden no funcionar correctamente.
+\n\nCómo usamos la información recopilada
+\n\nMy Taxi Ride Systems puede recopilar y usar información personal de los Usuarios para los siguientes propósitos:
+\n\n- Para mejorar el servicio al cliente
+        La información que proporciona nos ayuda a responder a sus solicitudes de servicio al cliente y necesidades de soporte de manera más eficiente.
+        - Para personalizar la experiencia del usuario
+        Podemos usar información en conjunto para comprender cómo nuestros Usuarios como grupo usan los servicios y recursos proporcionados en nuestro Sitio.
+        - Para mejorar nuestro sitio
+        Podemos utilizar los comentarios que nos proporcione para mejorar nuestros productos y servicios.
+        - Para procesar pagos
+        Podemos utilizar la información que los Usuarios proporcionan sobre sí mismos al realizar un pedido solo para proporcionar servicio a ese pedido. No compartimos esta información con terceros, excepto en la medida necesaria para proporcionar el servicio.
+        - Para enviar correos electrónicos periódicos
+        Podemos utilizar la dirección de correo electrónico para enviar información del usuario y actualizaciones relacionadas con su pedido. También se puede usar para responder a sus consultas, preguntas y / u otras solicitudes. Si el Usuario decide optar por nuestra lista de correo, recibirá correos electrónicos que pueden incluir noticias de la compañía, actualizaciones, información relacionada con productos o servicios, etc. Si en algún momento el Usuario desea darse de baja para recibir correos electrónicos futuros, incluimos detalles Darse de baja las instrucciones en la parte inferior de cada correo electrónico o el usuario puede contactarnos a través de nuestro sitio.
+\n\nCómo protegemos su información
+\n\nAdoptamos prácticas adecuadas de recopilación, almacenamiento y procesamiento de datos y medidas de seguridad para proteger contra el acceso no autorizado, la alteración, la divulgación o la destrucción de su información personal, nombre de usuario, contraseña, información de transacciones y datos almacenados en nuestro Sitio.
+\n\nEl intercambio de datos confidenciales y privados entre el Sitio y sus Usuarios se realiza a través de un canal de comunicación seguro SSL y está encriptado y protegido con firmas digitales.
+\n\nCompartir su información personal
+\n\nNo vendemos, intercambiamos ni alquilamos información de identificación personal de los Usuarios a terceros. Podemos compartir información demográfica agregada genérica no vinculada a ninguna información de identificación personal con respecto a visitantes y usuarios con nuestros socios comerciales, afiliados de confianza y anunciantes para los fines descritos anteriormente.
+\n\nCambios a esta política de privacidad
+\n\nMy Taxi Ride Systems tiene la facultad de actualizar esta política de privacidad en cualquier momento. Cuando lo hagamos, publicaremos una notificación en la página principal de nuestro Sitio, revisaremos la fecha actualizada al final de esta página y le enviaremos un correo electrónico. Alentamos a los usuarios a consultar con frecuencia esta página para ver si hay cambios y mantenerse informados sobre cómo estamos ayudando a proteger la información personal que recopilamos. Usted reconoce y acepta que es su responsabilidad revisar esta política de privacidad periódicamente y estar al tanto de las modificaciones.
+\n\nSu aceptación de estos términos.
+\n\nAl usar este Sitio, usted expresa su aceptación de esta política. Si no está de acuerdo con esta política, no utilice nuestro sitio. Su uso continuado del Sitio luego de la publicación de cambios a esta política se considerará su aceptación de dichos cambios.
+\n\nContactando con nosotros
+\n\nSi tiene alguna pregunta sobre esta Política de privacidad, las prácticas de este sitio o sus tratos con este sitio, contáctenos en:
+\nMy Taxi Ride Systems
+\nhttp://mytaxiride.com/
+\n646-353-5746
+\nmiguelp6@mytaxiride.com
+\n\nEste documento fue actualizado por última vez en septiembre 29, 2013</string>
+    <string name="apply_coupon">Aplicar cupón</string>
+    <string name="choose_option">Elegir opción</string>
+
+    <string name="text_drop_location">Por favor llene su ubicación de entrega</string>
+    <string name="turn_on_location">Para continuar, active la ubicación del dispositivo, que utiliza el servicio de ubicación de Google</string>
+    <string name="plese_select_pyment_type">Por favor seleccione el tipo de pago</string>
+
+
+</resources>
